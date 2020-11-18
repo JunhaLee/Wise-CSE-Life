@@ -1,6 +1,6 @@
 # Wise-CSE-Life
 ## Tejava Team
-## <img src="https://user-images.githubusercontent.com/51983113/99543738-da886e80-29f6-11eb-8bc9-ef55f89a34ed.png" width="17%">
+## <img src="https://user-images.githubusercontent.com/51983113/99547215-a1ea9400-29fa-11eb-8915-43cc397a2269.PNG" width="17%">
 ### 학생 식당에서의 혼잡을 막기 위한 학생 식당 자동화 시스템
 ------------
 ### 🧩Project 주제
